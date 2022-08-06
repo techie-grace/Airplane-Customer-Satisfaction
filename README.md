@@ -6,6 +6,8 @@ Dataset: [Maven Analytics](https://www.mavenanalytics.io/data-playground?accessT
 
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience. This analysis is to analyze how each factors affects the customers satisfaction.
 
+Dashboard: https://www.novypro.com/project/airline-passengers-satisfaction
+
 Data Dictionary
 <table>
 
